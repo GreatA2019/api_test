@@ -1,0 +1,52 @@
+[
+    {
+        "id_conseil": "1",
+        "body_conseil": "Le courant alternatif est généralement celui que l’on utilise dans les foyers pour l’éclairage, le chauffage, la cuisine, etc. ",
+        "image_conseil": "image1"
+    },
+    {
+        "id_conseil": "2",
+        "body_conseil": "Réveillez-vous chaque matin avec la certitude qu’aujourd’hui vous allez changer le monde. Ou bien, faites la grasse matinée sans vous préoccuper de quoi que ce soit.",
+        "image_conseil": "image2"
+    },
+    {
+        "id_conseil": "3",
+        "body_conseil": "Utilisez du papier recyclé pour imprimer vos documents et configurez votre imprimante en impression recto verso.",
+        "image_conseil": "image3"
+    },
+    {
+        "id_conseil": "4",
+        "body_conseil": "Utilisez le verso non imprimé d’une feuille pour prendre des notes.",
+        "image_conseil": "image4"
+    },
+    {
+        "id_conseil": "5",
+        "body_conseil": "Réemployez les boîtes de carton.",
+        "image_conseil": "image5"
+    },
+    {
+        "id_conseil": "6",
+        "body_conseil": "Échangez les vêtements que vous ne portez plus avec des ami(e)s et des membres de votre famille ou faites un don à la friperie de votre localité ou encore à un organisme de charité.",
+        "image_conseil": "image6"
+    },
+    {
+        "id_conseil": "7",
+        "body_conseil": "Réutilisez les vêtements troués pour en faire des chiffons.",
+        "image_conseil": "image7"
+    },
+    {
+        "id_conseil": "8",
+        "body_conseil": "Récupérez l’eau de pluie ou l’eau d’un déshumidificateur pour arroser vos plantes.",
+        "image_conseil": "image8"
+    },
+    {
+        "id_conseil": "9",
+        "body_conseil": " Favorisez l’achat de gros formats plutôt que les petites portions individuelles et évitez les produits suremballés.",
+        "image_conseil": "image9"
+    },
+    {
+        "id_conseil": "10",
+        "body_conseil": "Faites don de vos vieux équipements informatiques à des organismes s’ils sont encore fonctionnels. Si ceux-ci ne fonctionnent plus, vous pouvez les recycler dans des usines de récupération-recyclage,chez certains fabricants et détaillants comme Bureau en Gros ou encore à l’éco-centre de votre municipalité.",
+        "image_conseil": "image10"
+    }
+]
